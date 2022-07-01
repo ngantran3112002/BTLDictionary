@@ -1,0 +1,110 @@
+﻿abandon	Từ bỏ, bỏ rơi	To abandon a hope.	disregard, freedom	 keep, pursue
+above	Ở trên	As was stated above.	aloft, atop, beyond, high, on high	below, under, deficient, fewer, less, inferior
+alone	Một mình, trơ trọi, cô đơn, đơn độc	To go it alone.	abandoned	together, accompanied
+answer	Sự trả lời; câu trả lờI	To give an answer to somebody about something.	acknowledgment, antiphon	question
+arrive	Đi đến,đến nơi	To arrive at school.	access, alight	depart, disappear
+ascent	Sự trèo lên, sự đi lên	To make an ascent in a balloon.	 ascending, ascension	decline, descent
+average	Số trung bình	Below the average.	boilerplate, common	abnormal, atypical
+ban	Cấm đoán, cấm chỉ	Crackers have been strictly banned in Vietnam.	boycott, censorship	allowance, permission
+before	Trước, đằng trước	To have a whole life before one.	afore, aforetime	after, afterward
+begin	Bắt đầu, mở đầu, khởi đầu	To begin upon.	activate,actualize	null
+bewilder	Làm bối rối, làm hoang mang, làm lúng túng	She was bewildered by his sudden change of mood.	addle, baffle	explain, orient
+big	To, lớn	A big tree.	ample, awash, a whale of a, brimming, bulky	itsy, little, small, tiny, blah
+boring	Chán nản	A boring job.	deadening, drilling	funny, luckily
+brief	Ngắn, vắn tắt, gọn	A brief note.	boiled down, breviloquent	nul
+buy	Mua	To buy back.	acquisition, bargain, closeout	market, sell
+clean	sạch sẽ, lau chùi	I clean my house	graceful, hygienic, immaculate, laundered, neat	cluttered, dirty, filthy, foul, polluted
+compatible	Hợp nhau, tương hợp	Compatible single sideband system.	accordant, adaptable	antagonistic, antipathetic
+control	điều khiển	The temperature is controlled by a thermostat.	Management	Freedom
+cool	Mát mẻ, mát	It's getting cool.	air-conditioned, algid, arctic, biting, chill	hot, temperate, warm, agitated, annoyed
+coward	Người nhát gan, người nhút nhát	They had run away—the cowards!	 gutless, milksop, noel, scaredy-cat, sissy	aggressor, hero
+dark	Tối, tối tăm, tối mò	It is getting dark.	aphotic, atramentous, black, blackish, caliginous	bright, brilliant, illuminated, light, lucid
+dealer	người buôn bán	a car dealer.	Trader	Customer
+denote	Biểu hiện, biểu thị	A face that denotes energy.	 announce, argue	NULL
+destroy	Phá, phá hoại, phá huỷ	To destroy oneself.	abort, annihilate, annul, axe	build, construct, create
+difference	sự khác biệt	The differences between men and women.	Distinction	Equal
+difficult	Khó, khó khăn	A question difficult to answer.	ambitious, arduous, backbreaker, bothersome, burdensome	calm, easy, free, manageable, plain
+display	Sự bày ra, sự trưng bày	To make a display of.	act, affectation	hiding,conceal
+dry	Khô, cạn, ráo	A spell of dry cold.	anhydrous, arid, athirst, baked, bald	damp, dripping, humid, juicy, moist
+east	Hướng đông, phương đông	To the east of.	gerontogeous, oriental	Null
+empty	Trống, rỗng, trống không	The car is empty of petrol.	abandoned, bare, barren, blank, clear	complete, entire, filled, full, replete
+exaggerated	Phóng đại	An exaggerated account of his adventures.	enlarge, magnify	depreciate , minimize
+exhibit	Vật trưng bày, vật triển lãm	Exhibit booth.	display, exhibition	concealment, cover
+expertise	Sự thành thạo, sự tinh thông	Expertise contract.	ability, ableness	null
+fact	Việc, sự việc	To confess the fact.	actuality, appearance, authenticity, basis	fabrication, lie
+fantastic	tuyệt vời,vô cùng tốt	A fantastic sum of money.	absurd, artificial	common, commonplace
+far	Xa, xa xôi, xa xăm	A far region.	afar, a good way, a long way, bit, deep	close, near
+first	Thứ nhất	the First World War.	aboriginal, ahead, antecedent, anterior, basic	final, last, least
+front	Đằng trước, phía trước; mặt trước	In front of.	advanced, ahead, anterior, facial, first	back, ending, final, finishing, rear
+good	Tốt, hay, tuyệt	Very good!	well done	bad
+government	Chính phủ	rules for the government of the infirmary.	Authority	Inferiority
+happy	vui vẻ	Happy birthday!	funny	sad, bored
+health	Sức khỏe	a health risk.	Strength	Illness
+high	Cao	High mountain.	aerial, alpine, altitudinous, big, colossal	dwarfed, low, lowly, short, stunted
+huge	To lớn, đồ sộ	A huge mistake.	 great, big	 little , miniature
+impediment	Sự trở ngại	Impediment in one's speech.	barrier, block	aid, assistance
+incompetence	Sự thiếu khả năng	Allegations of professional incompetence.	inexperience, ineptitude	NULL
+information	Thông tin	a vital piece of information.	Knowledge	Ignorance
+intricate	Rắc rối, phức tạp	An intricate machine.	abstruse, baroque	 simple, systematic
+irrespective	Không kể, bất luận	Irrespective of nationality.	NULL	NULL
+jeopardized	Gây nguy hiểm	To jeopardise one's life.	NULL	NULL
+leadership	lãnh đạo	The post requires a person who combines leadership and energy	administration , authority , capacity	null
+leave	Sự cho phép	By your leave.	allowance, assent, authorization, concession	NULL
+long	Dài	A long journey.	continued, deep, distant, drawn out, elongate	abbreviated, abridged, short, ephemeral, evanescent
+loud	To, ầm ĩ, inh ỏi	A loud cry.	big, blatant, blustering, boisterous, booming	inaudible, low, quiet, soft, subdued
+love	Lòng yêu, tình thương	Love of one's country.	adulation, affection, allegiance, amity	dislike, hate
+man	đàn ông	every man jack of them ran off	gentleman	woman
+mediocre	tầm thường	A mediocre meal.	common, conventional	exceptional, extraordinary
+memorable	Đáng ghi nhớ	The most memorable of his career.	 bodacious, catchy	forgettable, insignificant
+method	Phương pháp	a method for software maintenance.	Plan	Disorganization
+mishap	Việc rủi ro, tai nạn	Although there were a few minor mishaps, none of the pancakes stuck to the ceiling.	blow, blunder, calamity	null
+mixture	Hỗn hợp	a mixture of eggs, flour and milk.	combination	single substance
+narrow	Hẹp, chật hẹp	A narrow street.	attenuated, circumscribed	broad, generous
+nature	Thiên nhiên	the breathtaking beauty of nature.	Wildlife	Artificiality
+new	mới	I have a new car.	lastest	old
+north	Hướng bắc, phương bắc	In the north.	arctic, boreal, cold, frozen, hyperborean	south
+obstacle	Sự cản trở	Obstacles on the racecourse.	bar, block	advantage, assistance
+outside	Bề ngoài, bên ngoài	To open the door from the outside.	alfresco, alien ,apart from, away from, exterior	central, inside, internal, middle, certain
+play	Sự vui chơi, sự nô đùa	To be at play.	comedy, curtain-raiser, drama	work, extreme
+problem	Vấn đề	the problem of ageism in Hollywood.	Trouble	Solution
+product	Sản phẩm	food products.	goods, purchase	Null
+prominent	Lồi lên, nhô lên	Prominent cheek-bones.	arresting, beetling	depressed, inconspicuous
+public	Chung, công, công cộng	Public holiday.	accessible, city, civic, civil, common	particular, private, specific, unknown
+push	Sự xô, sự đẩy	To give the door a hard push.	advance, assault, attack, bearing	pull, discouragement, disinterest
+puzzled	Không hiểu được, lúng túng, bối rối	He looked at her with a puzzled face.	bollixed, clueless	aware, certain, cognizant
+recording	đĩa hát, đĩa ghi âm	this is a recording of Beethoven’s Fifth Symphony.	almanac , annals , archive	loss
+reflected	phản xạ	Forward reflected wave.	null	null
+regardless	Bất chấp	Regardless of danger.	behindhand, blind	attentive, concerned
+remains	Đồ thừa, cái còn lại	The remains of an army.	debris, detritus	NULL
+right	Điều tốt, điều phải, điều đứng đắn	To make no difference between right and wrong.	appropriate, condign	corrupt, immoral, inequitable
+rug	Thảm dầy trải sàn	A hearth-rug.	carpeting, floor covering	null
+sad	Buồn rầu, buồn bã	To look sad.	bereaved, bitter, blue, cheerless, dejected	cheerful, glad, happy, joyful, fortunate
+sample	Mẫu	Samples of the artist’s work.	metaphoric, probationary	null
+sceptical	hoài nghi	The public were deeply skeptical about some of the proposals	dubious	NULL
+security	An ninh	the system is designed to provide maximum security against toxic spills.	Insurance, Preservation	insercurity, uncertainly
+shy	nhút nhát, bén lẽn	She is shy.	retiring, timid	confident
+sight	Sức nhìn, thị lực; sự nhìn, khả năng nhìn	a roses are a sight to see	afterimage , appearance , apperception	blindness, beauty
+significant	Đầy ý nghĩa, có tính chất gợi ý	A significant remark.	cogent, compelling, convincing	insignificant, meaningless
+simple	Đơn giản	Simple surface.	moronic, nitwitted	NULL
+sit	Ngồi	To sit round the fire.	bear on, be seated, cover, ensconce	stand, cancel
+situation	Vị trí, địa thế	Unrivalled for situation.	bearings, direction	NULL
+slow	Chậm, chậm chạp	Slow and sure.	apathetic, crawling, creeping	busy, fast, hurried, quick
+small	Nhỏ, bé, chật	the coat is too small for me.	baby , bantam , bitty , cramped	big , enormous , generous , huge , immense
+sophisticated	cầu kì	A chic sophisticated woman.	urbane,classy	inexperienced, unrefined
+stay	Sự trở lại, sự lưu lại	To make a long stay in Hanoi.	abide, bide, bunk	abet, advance, assist, go, help, leave
+straight	Thẳng, không cong	Straight line.	beeline, collinear, consecutive, continuous, direct	curved, indirect, twisted, corrupt, dishonest
+strong	Bền, vững, chắc chắn, kiên cố	Strong cloth.	able, able-bodied, active, athletic, big, capable	feeble, infirm, unhealthy, unpowerful, weak
+subtract	trừ	null	decrease, deduct	add
+system	Hệ thống	the state railroad system.	Organization	Part
+tactful	Khéo xử, lịch thiệp	A tactful word.	adroit, aware	careless, indiscreet
+tolerate	Tha thứ	I won't tolerate your behaving.	abide, accept	check, disallow
+tradition	Sự truyền miệng	the traditional festivities of the Church year.	attitude, belief, birthright, conclusion, convention	null
+under	Dưới, ở dưới	To be under water.	beneath, bottom, concealed by, covered by, down	above, higher, more, over, up
+understanding	Hiểu biết	foreign visitors with little understanding of English.	Awareness	Stupidity
+understated	Tự chủ, tuyên bố	To understate one's feelings.	NULL	NULL
+unforgettable	đáng nhớ	An unforgettable moment.	catchy, distinguished	foget
+up	Ở trên, lên trên, lên	Up in the air.	elate, elevated, overjoyed	down
+vertical	Thẳng đứng, đứng	Vertical axis of a crystal.	bolt upright, cocked, erect, on end, perpendicular	horizontal, prone, flat, level
+wide	Rộng, rộng lớn	A wide river.	large, deep	cramped, narrow, restricted
+wonderful	Kỳ lạ, phi thường	The child's skill is wonderful for his age.	admirable, amazing,	bad, lousy
+young	trẻ, trẻ tuổi, thiếu niên	A young man.	adolescent, blooming, blossoming	adolescent, blooming, blossoming
